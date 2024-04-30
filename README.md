@@ -1,9 +1,12 @@
 [Informatica ETL Project.pdf](https://github.com/MohamedKaram97/ETL-Informatica-Power-Center-/files/15166328/Informatica.ETL.Project.pdf)
  
 Informatica ETL Project
-Overview
+
+#Overview
+
 This Informatica project involves Extracting, Transforming, and Loading (ETL) data from two CSV files: Churn_Modelling2.csv and Churn_Modelling3.csv. The objective is to perform various analyses on the data and generate specific outputs as outlined below.
-Tasks
+
+#Tasks
 1. Sum of Balances for Male and Female Customers
 •	Calculate the sum of balances for male and female customers.
 2. Number of Active Male and Female Customers
@@ -20,7 +23,7 @@ o	Age above 45
 6. Highest and Lowest Credit Score Values
 •	Find the highest and lowest credit score values.
  
-Outputs
+#Outputs
 •	SumBalance_M_F.txt: Sum of balances for male and female customers.
 
 •	Count_Active.txt: Number of active male and female customers.
@@ -33,7 +36,7 @@ Outputs
 
 •	max_min_score.txt: Highest and lowest credit score values.
 
-Usage
+#Usage
 
 1.	Ensure Informatica PowerCenter is installed and configured.
 2.	
