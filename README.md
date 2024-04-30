@@ -1,7 +1,5 @@
 [Informatica ETL Project.pdf](https://github.com/MohamedKaram97/ETL-Informatica-Power-Center-/files/15166328/Informatica.ETL.Project.pdf)
  
-Informatica ETL Project
-
 #Overview
 
 This Informatica project involves Extracting, Transforming, and Loading (ETL) data from two CSV files: Churn_Modelling2.csv and Churn_Modelling3.csv. The objective is to perform various analyses on the data and generate specific outputs as outlined below.
